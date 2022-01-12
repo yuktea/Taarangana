@@ -1,0 +1,19 @@
+<div class="grid">
+  	<header>
+  		<h1>INDIRA GANDHI DELHI TECHNICAL UNIVERSITY FOR WOMEN</h1>
+  	</header>
+  	<figure class="fig fig--1" style="--aspect-ratio: 3/4;">
+  		<img src='https://images.shiksha.com/mediadata/images/1562591954phpe67t5j.jpeg'>
+  	</figure>
+  	<p>It is the First Women Engineering University in South Asia.<br>Ranked first among the emerging engineering colleges of India!</p>
+  	<figure class="fig fig--2" style="--aspect-ratio: 4/3;">
+  		<img src='https://miro.medium.com/max/1050/1*74-7fZYsepKczdsID8s3sw.jpeg'>
+  	</figure>
+
+  	<p>Taarangana'22, the ninth edition of annual cultural festival of our college.
+      It is indeed one of the most awaited cultural event in Delhi!</p>
+  	<figure class="fig fig--3" style="--aspect-ratio: 3/4;">
+  		<img src='https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8&w=1000&q=80' alt='Child reading'>
+  	</figure>
+  	<p>The fest witnesses a gathering of zealous students from various colleges across the city who meet, mingle share artistic and intellectual interests while making precious memories!</p>
+  </div>
